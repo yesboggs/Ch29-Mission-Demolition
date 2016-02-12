@@ -1,6 +1,6 @@
 # Ch29---Mission-Demolition
 Gibson - Mission Demolition
 
-Do this assignment in two parts - everything up to the projectile trail, and then therest of the code
+The project has the base objects for vertical and horizontal castle walls, the ground and several materials. You also have the Cloudcrafter script and clouds already implemented. Feel free to modify the cloud prefabs.
 
-feel free to add as many levels as you wish
+You should still look at the cloud crafter script, it just isn't going to be the focus of our work this semester.
